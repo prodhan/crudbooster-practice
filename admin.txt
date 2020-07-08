@@ -1,0 +1,4 @@
+::Developer Credential::
+URL: http://localhost/developer/TuELv46Ehhxf57i0/login
+Username: RINTU
+Password: 2E5y2dePVsbSFXWG
